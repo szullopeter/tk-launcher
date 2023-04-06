@@ -1,0 +1,10 @@
+# SG Pipeline Toolkit configuration file
+# This file was automatically created by tank clone
+# This file reflects the paths in the pipeline configuration
+# entity which is associated with this location (dev).
+
+Windows: 'C:\Users\szull\Documents\BME\6felev\Onlab\Spectral\Shotgun\configs_dev'
+Darwin: ''
+Linux: ''
+
+# End of file.
